@@ -1,0 +1,1 @@
+./AutoDock-Vina-GPU-2-1 --config ./hnod2_input/config.txt 2>&1 | tee >(cat > result17.txt)
